@@ -1,0 +1,23 @@
+{
+  "python.analysis.extraPaths": ["src"],
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "explorer.compactFolders": false,
+  "[python]": {
+    "editor.quickSuggestions": {
+      "other": "off",
+      "comments": "off",
+      "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabCompletion": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.inlineSuggest.enabled": false
+  },
+  "editor.fontSize": 16,
+  "editor.lineHeight": 24,
+  "terminal.integrated.fontSize": 15,
+  "window.zoomLevel": 0
+}
